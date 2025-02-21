@@ -4,7 +4,7 @@ Please see the [IESG Statement on Inclusive
 Language](https://www.ietf.org/about/groups/iesg/statements/on-inclusive-language/),
 which documents the current IETF community consensus on encouraging to use the
 guidance in [NISTIR
-8366]([https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8366.pdf](https://web.archive.org/web/20250203031433/https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8366.pdf) when making
+8366](https://web.archive.org/web/20250203031433/https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8366.pdf) when making
 contributions to the IETF.
 
 ## Automated checking on GitHub
